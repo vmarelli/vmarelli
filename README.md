@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there I'm Virginie Marelli 👋
 
-<!--
-**vmarelli/vmarelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm head of research at dataroots. I coordinate all trainings, work on hot new development in AI and data and what dataroots shares with the community!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on next best actions, recommender engines, reinforcement learning 
+- 🌱 I’m currently learning algorithms for decision making
+- 👯 I’m looking to collaborate on offline algorithms for reinforcement learning
+- 💬 Ask me about: optimization and reinforcement learning
+- 📫 How to reach me: virginie@dataroots.io
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I play the flute in an orchestra and we wear costume of the British guards
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" alt="vmarelli' GitHub stats" src="https://github-readme-stats.vercel.app/api?username=vmarelli&show_icons=true" />
+
